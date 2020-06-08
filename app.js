@@ -8,7 +8,7 @@ const app = express();
 
 const playerRoutes = require('./routes/player.routes');
 const homeRoutes = require('./routes/index.routes');
-const port = 2000;
+const port = 443;
 
 
 // create connection to database
